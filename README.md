@@ -40,35 +40,35 @@ Please note that the above link may inform you that the pothole is to large or d
 
 
 ##### Step-by-Step Guide
-*Step 1: Preparation*
+###### *Step 1: Preparation*
 
-Safety First: Ensure the area is safe for repair. Mark the pothole with cones or warning tape if necessary.
+_Safety First:_ Ensure the area is safe for repair. Mark the pothole with cones or warning tape if necessary.
 
-Clean the Area: Remove loose debris, dirt, and any vegetation around the pothole. Use a broom or brush to ensure a clean surface.
+_Clean the Area:_ Remove loose debris, dirt, and any vegetation around the pothole. Use a broom or brush to ensure a clean surface.
 
-Shape the Pothole: Square off the edges of the pothole to create a more stable base. Remove any loose or crumbling asphalt from the bottom.
+_Shape the Pothole:_ Square off the edges of the pothole to create a more stable base. Remove any loose or crumbling asphalt from the bottom.
 
-*Step 2: Filling the Pothole*
+###### *Step 2: Filling the Pothole*
 
-Add a Base Layer: If the pothole is deep, add a base layer of gravel or crushed stone to provide a solid foundation. Compact the base layer with a tamp or compacting tool.
+_Add a Base Layer:_ If the pothole is deep, add a base layer of gravel or crushed stone to provide a solid foundation. Compact the base layer with a tamp or compacting tool.
 
-Apply the Asphalt: If using cold patch, pour it into the pothole and spread it evenly. If using hot mix asphalt, ensure it’s hot and apply it directly to the pothole.
+_Apply the Asphalt:_ If using cold patch, pour it into the pothole and spread it evenly. If using hot mix asphalt, ensure it’s hot and apply it directly to the pothole.
 
-Compact the Surface: Use a tamp or compacting tool to press the asphalt into the pothole, ensuring it’s level with the surrounding surface.
+_Compact the Surface:_ Use a tamp or compacting tool to press the asphalt into the pothole, ensuring it’s level with the surrounding surface.
 
-*Step 3: Finishing Touches*
+###### *Step 3: Finishing Touches*
 
-Smooth the Surface: Use a trowel to smooth the surface of the patch, ensuring it blends with the existing pavement.
+_Smooth the Surface:_ Use a trowel to smooth the surface of the patch, ensuring it blends with the existing pavement.
 
-Allow to Set: Let the patch set according to the manufacturer’s instructions. For hot mix asphalt, it may need time to cool and harden.
+_Allow to Set:_ Let the patch set according to the manufacturer’s instructions. For hot mix asphalt, it may need time to cool and harden.
 
 ##### Tips for a Durable Patch
 
-Choose the Right Material: Cold patch is convenient but may not last as long as hot mix asphalt. For high-traffic areas, consider hot mix asphalt.
+_Choose the Right Material:_ Cold patch is convenient but may not last as long as hot mix asphalt. For high-traffic areas, consider hot mix asphalt.
 
-Proper Compaction: Adequate compaction is crucial for a long-lasting repair. Ensure the patch is firmly compacted.
+_Proper Compaction:_ Adequate compaction is crucial for a long-lasting repair. Ensure the patch is firmly compacted.
 
-Weather Conditions: Perform repairs in dry conditions. Avoid patching in rain or extreme temperatures for best results
+_Weather Conditions:_ Perform repairs in dry conditions. Avoid patching in rain or extreme temperatures for best results
 
 
 ### 2. Professional: road condition estimation
