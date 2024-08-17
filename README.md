@@ -11,7 +11,7 @@ Potholes are depressions in the road surface caused by the expansion and contrac
 If the pothole is small enough and you have permission from your local municipality, why not take care of it yourself?
 Follow the following link to upload a photo of your pothole in order to find out exactly how many bags of asphalt you'll need to fill it. (No need to guess and make multiple trips to the store!) 
 
-_LINK_
+_Streamlit LINK_
 
 Please note that the above link may inform you that the pothole is to large or deep. In that case, please contact either your local municipality or a professional.
 
